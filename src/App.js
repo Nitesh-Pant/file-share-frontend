@@ -1,6 +1,7 @@
 import './App.css';
 import { useEffect, useState } from 'react'
 import axios from 'axios';
+import UPLOAD_URL from "./constants/constant.js"
 function App() {
   const [selectedFile, setSelectedFile] = useState();
   const [htmlContent, setHtmlContent] = useState();
@@ -22,7 +23,7 @@ function App() {
       setProgress(80)
 
       try {
-        const response = await axios.post('http://43.205.62.246:3000/api/upload', formData, {
+        const response = await axios.post(`${UPLOAD_URL.UPLOAD_URL}`, formData, {
           headers: {
             "Content-Type": 'multipart/form-data'
           }
