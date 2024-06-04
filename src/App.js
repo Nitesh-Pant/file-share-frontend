@@ -37,6 +37,7 @@ function App() {
       }
       catch (err) {
         console.log('err')
+        alert('Error Occured!! Please Try Again')
       }
     }
     else {
@@ -50,7 +51,7 @@ function App() {
       setProgress(40)
       setTimeout(() => {
         handleUpload()
-      }, 5000)
+      }, 1000)
     }
   }, [selectedFile])
   return (
