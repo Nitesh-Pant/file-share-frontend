@@ -1,6 +1,6 @@
 ## Project Overview
 
-[![Watch the video](https://github.com/Nitesh-Pant/file-share-frontend/blob/master/1717583498656.jpeg)]([https://github.com/Nitesh-Pant/file-share-frontend/blob/master/video-1719209179310.mp4](https://drive.google.com/file/d/1RWbdGJ3Bz7sbqqpuvVKB2cQM-El1dpj8/view))
+[![Watch the video](https://github.com/Nitesh-Pant/file-share-frontend/blob/master/1717583498656.jpeg)](https://drive.google.com/file/d/1RWbdGJ3Bz7sbqqpuvVKB2cQM-El1dpj8/view)
 
 # Getting Started with Create React App
 
