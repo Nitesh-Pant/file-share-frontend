@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+## Project Overview
+
+[![Watch the video](https://github.com/Nitesh-Pant/file-share-frontend/blob/master/1717583498656.jpeg)](https://github.com/Nitesh-Pant/file-share-frontend/blob/master/video-1719209179310.mp4)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
